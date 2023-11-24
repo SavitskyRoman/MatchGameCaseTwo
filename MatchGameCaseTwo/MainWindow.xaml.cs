@@ -47,7 +47,9 @@ namespace MatchGameCaseTwo
                 string nextEmoji = animalEmoji[index];
                 textBlock.Text = nextEmoji;
                 animalEmoji.RemoveAt(index);
+                
             };
+            string someForSome = "Some";
 
         }
     }
